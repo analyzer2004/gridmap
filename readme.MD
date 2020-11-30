@@ -5,6 +5,8 @@ Grid Cartogram is a very popular type of map for showing statistical data based 
 
 For live demos and tutorial, please see [Grid Cartogram (plus a bonus Map Editor) and live COVID demos]
 
+<img src="https://github.com/analyzer2004/gridmap/blob/master/images/cover.png" width="768">
+
 ## API Reference
 * **Gridmap(container)** - Constructs a new instance of Gridmap with default settings. The container can be a svg or any g elements.
 * **size([width, height])** - Sets this map's dimensions to specified width and height and returns this map.
