@@ -1,4 +1,6 @@
-﻿class Gridmap {
+﻿// https://github.com/analyzer2004/gridmap
+// Copyright 2020 Eric Lo
+class Gridmap {
     constructor(container) {
         this._container = container;
         this._g = null;
