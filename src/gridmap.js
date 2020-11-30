@@ -1,6 +1,6 @@
 ﻿// https://github.com/analyzer2004/gridmap
 // Copyright 2020 Eric Lo
-class Gridmap {
+class GridMap {
     constructor(container) {
         this._container = container;
         this._g = null;

@@ -8,7 +8,7 @@ For live demos and tutorial, please see [Grid Cartogram (plus a bonus Map Editor
 <img src="https://github.com/analyzer2004/gridmap/blob/master/images/cover.png" width="768">
 
 ## API Reference
-* **Gridmap(container)** - Constructs a new instance of Gridmap with default settings. The container can be an svg or any g elements.
+* **GridMap(container)** - Constructs a new instance of Gridmap with default settings. The container can be an svg or any g elements.
 * **size([width, height])** - Sets this map's dimensions to specified width and height and returns this map.
 * **style(style)** - Overrides the default styles and return this map.
   * style.**transition**: a boolean value that turns on/off the transition effect
