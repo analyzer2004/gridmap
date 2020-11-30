@@ -1,6 +1,6 @@
 # Grid Cartogram
 
-Grid Cartogram is a very popular type of map for showing statistical data based on geographic location. It is a distorted form that each cell of the grid represents one subdivision. The cleanness and simplicity help users to understand the information easily without getting distracted by other elements on a regular map.
+Grid Cartogram is a prevalent type of map for showing statistical data based on geographic location. It is a distorted form that each cell of the grid represents one subdivision. The cleanness and simplicity help users understand the information quickly without getting distracted by other elements on a normal map.
 
 
 For live demos and tutorial, please see [Grid Cartogram (plus a bonus Map Editor) and live COVID demos]
