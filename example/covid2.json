@@ -1,0 +1,273 @@
+[
+  {
+    "state": "Alabama",
+    "code": "AL",
+    "number": 7294
+  },
+  {
+    "state": "Alaska",
+    "code": "AK",
+    "number": 362
+  },
+  {
+    "state": "Arizona",
+    "code": "AZ",
+    "number": 7962
+  },
+  {
+    "state": "Arkansas",
+    "code": "AR",
+    "number": 3310
+  },
+  {
+    "state": "California",
+    "code": "CA",
+    "number": 52318
+  },
+  {
+    "state": "Colorado",
+    "code": "CO",
+    "number": 15661
+  },
+  {
+    "state": "Connecticut",
+    "code": "CT",
+    "number": 28764
+  },
+  {
+    "state": "Delaware",
+    "code": "DE",
+    "number": 4918
+  },
+  {
+    "state": "District of Columbia",
+    "code": "DC",
+    "number": 4658
+  },
+  {
+    "state": "Florida",
+    "code": "FL",
+    "number": 34720
+  },
+  {
+    "state": "Georgia",
+    "code": "GA",
+    "number": 26436
+  },
+  {
+    "state": "Guam",
+    "number": 1115
+  },
+  {
+    "state": "Hawaii",
+    "code": "HI",
+    "number": 610
+  },
+  {
+    "state": "Idaho",
+    "code": "ID",
+    "number": 2035
+  },
+  {
+    "state": "Illinois",
+    "code": "IL",
+    "number": 56055
+  },
+  {
+    "state": "Indiana",
+    "code": "IN",
+    "number": 18941
+  },
+  {
+    "state": "Iowa",
+    "code": "IA",
+    "number": 7883
+  },
+  {
+    "state": "Kansas",
+    "code": "KS",
+    "number": 4510
+  },
+  {
+    "state": "Kentucky",
+    "code": "KY",
+    "number": 4879
+  },
+  {
+    "state": "Louisiana",
+    "code": "LA",
+    "number": 28754
+  },
+  {
+    "state": "Maine",
+    "code": "ME",
+    "number": 1123
+  },
+  {
+    "state": "Maryland",
+    "code": "MD",
+    "number": 23566
+  },
+  {
+    "state": "Massachusetts",
+    "code": "MA",
+    "number": 64311
+  },
+  {
+    "state": "Michigan",
+    "code": "MI",
+    "number": 42348
+  },
+  {
+    "state": "Minnesota",
+    "code": "MN",
+    "number": 5730
+  },
+  {
+    "state": "Mississippi",
+    "code": "MS",
+    "number": 7212
+  },
+  {
+    "state": "Missouri",
+    "code": "MO",
+    "number": 7840
+  },
+  {
+    "state": "Montana",
+    "code": "MT",
+    "number": 452
+  },
+  {
+    "state": "Nebraska",
+    "code": "NE",
+    "number": 4838
+  },
+  {
+    "state": "Nevada",
+    "code": "NV",
+    "number": 5249
+  },
+  {
+    "state": "New Hampshire",
+    "code": "NH",
+    "number": 2310
+  },
+  {
+    "state": "New Jersey",
+    "code": "NJ",
+    "number": 121190
+  },
+  {
+    "state": "New Mexico",
+    "code": "NM",
+    "number": 3513
+  },
+  {
+    "state": "New York",
+    "code": "NY",
+    "number": 313575
+  },
+  {
+    "state": "North Carolina",
+    "code": "NC",
+    "number": 10922
+  },
+  {
+    "state": "North Dakota",
+    "code": "ND",
+    "number": 1107
+  },
+  {
+    "state": "Northern Mariana Islands",
+    "number": 14
+  },
+  {
+    "state": "Ohio",
+    "code": "OH",
+    "number": 18743
+  },
+  {
+    "state": "Oklahoma",
+    "code": "OK",
+    "number": 3748
+  },
+  {
+    "state": "Oregon",
+    "code": "OR",
+    "number": 2579
+  },
+  {
+    "state": "Pennsylvania",
+    "code": "PA",
+    "number": 49764
+  },
+  {
+    "state": "Puerto Rico",
+    "number": 1573
+  },
+  {
+    "state": "Rhode Island",
+    "code": "RI",
+    "number": 8962
+  },
+  {
+    "state": "South Carolina",
+    "code": "SC",
+    "number": 6258
+  },
+  {
+    "state": "South Dakota",
+    "code": "SD",
+    "number": 2525
+  },
+  {
+    "state": "Tennessee",
+    "code": "TN",
+    "number": 11781
+  },
+  {
+    "state": "Texas",
+    "code": "TX",
+    "number": 30342
+  },
+  {
+    "state": "Utah",
+    "code": "UT",
+    "number": 4829
+  },
+  {
+    "state": "Vermont",
+    "code": "VT",
+    "number": 879
+  },
+  {
+    "state": "Virgin Islands",
+    "number": 66
+  },
+  {
+    "state": "Virginia",
+    "code": "VA",
+    "number": 16901
+  },
+  {
+    "state": "Washington",
+    "code": "WA",
+    "number": 15134
+  },
+  {
+    "state": "West Virginia",
+    "code": "WV",
+    "number": 1152
+  },
+  {
+    "state": "Wisconsin",
+    "code": "WI",
+    "number": 7439
+  },
+  {
+    "state": "Wyoming",
+    "code": "WY",
+    "number": 566
+  }
+]
