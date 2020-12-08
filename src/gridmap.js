@@ -21,6 +21,7 @@ class GridMap {
             showOverlay: true,
             showOverlayLegend: true,
             alwaysShowOverlay: false,
+            showCellText: true,
             hideCell: false,
             overlayLegendThreshold: 14,
             showMapLegend: true
@@ -296,7 +297,7 @@ class GridMap {
 
         if (!style.hideCell) {
             drawRect(g);
-            this._addCellText(g, true, "ctext");
+            if (style.showCellText) this._addCellText(g, true, "ctext");
         }
 
         const og = g.filter(d => d.total)
@@ -359,7 +360,7 @@ class GridMap {
 
         if (!style.hideCell) {
             drawCircle(g);
-            this._addCellText(g, true, "ctext");
+            if (style.showCellText) this._addCellText(g, true, "ctext");
         }
 
         const og = g.filter(d => d.total)
